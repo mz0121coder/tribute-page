@@ -1,1 +1,32 @@
 /* Copy and paste your CSS from CodePen into here */
+* {
+  font-family: "Alegreya", serif;
+  background-image: url(https://i.ytimg.com/vi/oFrvzAiLVWs/maxresdefault.jpg);
+}
+h1 {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+#img-div {
+  background: lightblue;
+  padding: 10px;
+  margin: 0;
+}
+
+/* #img-caption {
+    margin: 15px 0 5px 0;
+  } */
+
+#img-caption,
+#tribute-info,
+#tribute-link {
+  font-size: 1.8rem;
+  text-align: center;
+}
